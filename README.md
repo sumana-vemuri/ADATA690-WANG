@@ -1,2 +1,2 @@
-# ADATA690-WANG
+# DATA690-WANG
 Assignments
