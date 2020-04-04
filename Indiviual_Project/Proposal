@@ -1,0 +1,35 @@
+Project proposal 1
+
+1.	What is your issue of interest?
+Analyzing accident/crash data of Monroe county from the year 2003 to 2015 , to know the accident rates and the reasons behind the occurrence of accident and how we can prevent accidents in the future by analyzing the previous data and taking some preventive measures.
+
+2.	Why is this issue important?
+As the population is increasing, the vehicle usage per person is also increasing. The accident rate also increases with more vehicles. It is important for the analysis so that people will be more cautious when they are driving, and many preventive measures can be taken to minimize the loss of property or lives.
+
+3.	What questions do you try to answer?
+The dataset consists of various attributes like the year in which the accident occurred, the week, hour, collision type, 
+injury type, the location in which the accident occurred, the latitude and longitude and the place where the accident was reported.
+Using these data i would like to visualize some scenarios like,
+1. Illustrating when the accident occurred i.e., more in the weekends or weekday for the particular year. This can 
+be achieved by plotting a graph between the year and the weekend.
+2. Analyzing what injury occurred for the particular collision type. We can illustrate this by plotting a graph between collision type and injury type.
+
+4.	Where do you get the data to help answer your questions? 
+After going through various data sources online, I found various data sets from the  
+link https://catalog.data.gov/organization/opm-gov, after going through several data sets in the link i was interested in working on data 
+set which is related to the crash or accident report of Monroe county from the year 2003 to 2015(https://catalog.data.gov/dataset/traffic-data ).
+
+5.	What will be your unit of analysis (for example, patient, organization, or country)
+Using traffic data of Monroe county for the past years to analyze causes of accidents and other parameters. 
+
+6.	What variables/measures will you use in your analysis?
+
+Illustrating when the accident occurred i.e., more in the weekends or weekday for the particular year. This can be achieved by plotting a graph between the year and the weekend. So that some stricter laws can be enforced during the particular time of the week.
+
+We can also Analyze what injury occurred for the collision type. We can illustrate this by plotting a graph between collision type and injury type. 
+
+
+7.	What kinds of techniques you will be using (for example, summary statistics, scatter plot, bar chart, chi-squared test)? 
+
+We can use bar chart for plotting various categories and getting the result. So that we can compare the results like when the accidents occurred more i.e., during the weekends or weekdays.
+Also, I would like to experiment on various techniques for analyzing depending on the data set.
